@@ -1,0 +1,24 @@
+Installation of Anaconda Distribution for Python
+
+Step 1: Go to the link: https://www.anaconda.com/products/distribution
+Step 2: Download the distribution as per the operating system you have.
+As I have windows I am sharing with you a video to help you guide 
+with Anaconda installation on Windows.
+
+For the other OS users, you can check the links below
+(MAC)
+https://docs.anaconda.com/anaconda/install/mac-os/   
+(LINUX)   
+https://docs.anaconda.com/anaconda/install/linux/         
+You can refer windows as well
+https://docs.anaconda.com/anaconda/install/windows/ 
+
+After you have done with downloading, check the video guide. 
+Skip after 2:40 to 10:00 thats background installation running.
+
+Although its very easy installation.
+
+But we want to make sure that we are all decked up before the class
+so that we save time. Happy installing!!!!
+
+
