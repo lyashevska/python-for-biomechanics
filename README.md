@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lyashevska/python-for-biomechanics/HEAD)
+i[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lyashevska/python-for-biomechanics/master)
 
 # Data Analysis with Python for MSc Biomechanics
 
