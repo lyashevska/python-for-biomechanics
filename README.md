@@ -19,16 +19,13 @@
 - tuples
 - sets
 
-3. Data analysis and visualisation with pandas
+3. [Introduction to Pandas](https://nbviewer.org/github/lyashevska/python-for-biomechanics/blob/master/part2/1.%20Introduction%20to%20Pandas.ipynb)
 
 - data input/output
 - indexing, slicing and subsetting dataframes
 - combining dataframes
 - data analysis
 
-[Notebook](https://nbviewer.org/github/lyashevska/python-for-biomechanics/blob/master/part2/1.%20Introduction%20to%20Pandas.ipynb)
 
-4. Data visualisation with matplotlib and seaborn
-
-[Notebook](https://nbviewer.org/github/lyashevska/python-for-biomechanics/blob/master/part2/2.%20Introduction%20to%20Matplotlib.ipynb)
+4. [Introduction to Matplotlib](https://nbviewer.org/github/lyashevska/python-for-biomechanics/blob/master/part2/2.%20Introduction%20to%20Matplotlib.ipynb)
 
