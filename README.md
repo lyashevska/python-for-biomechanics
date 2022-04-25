@@ -24,6 +24,7 @@
 - combining dataframes
 - data analysis
 
+[View notebook](https://nbviewer.org/github/lyashevska/python-for-biomechanics/blob/master/part2/1.%20Introduction%20to%20Pandas.ipynb)
 4. Data visualisation with matplotlib and seaborn
 
 
