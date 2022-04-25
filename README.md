@@ -28,5 +28,5 @@
 
 4. Data visualisation with matplotlib and seaborn
 
-[Notebook] (https://nbviewer.org/github/lyashevska/python-for-biomechanics/blob/master/part2/2.%20Introduction%20to%20Matplotlib.ipynb)
+[Notebook](https://nbviewer.org/github/lyashevska/python-for-biomechanics/blob/master/part2/2.%20Introduction%20to%20Matplotlib.ipynb)
 
