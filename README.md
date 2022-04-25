@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lyashevska/python-for-biomechanics/HEAD)
+
 # Data Analysis with Python for MSc Biomechanics
 
 1. Introduction to Python 
